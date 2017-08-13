@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Steffen Henkelmann"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "PhD Candidate in High Energy Physics at the University of British Columbia (UBC) and Author of the ATLAS experiment at CERN / Alumnus of the University of Goettingen"
   location         : "Vancouver, BC"
   employer         :
