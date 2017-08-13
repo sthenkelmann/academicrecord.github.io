@@ -13,7 +13,7 @@ name                     : &name "Steffen Henkelmann"
 description              : &description "Some description"
 url                      : https://sthenkelmann.github.io/academicrecord.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sthenkelmann/academicrecords.github.io"
+repository               : "sthenkelmann/academicrecord.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
