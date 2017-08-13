@@ -3,7 +3,7 @@ title: "Measurements of top-quark pair differential cross-sections in
     the lepton+jets channel in $pp$ collisions at $\sqrt{s}$=13 TeV
     using the ATLAS detector"
 collection: publications
-permalink: /publication/2017-08-ttbarPairljets13TeV
+permalink: /publication/2017-08-02-ttbarPairljets13TeV
 excerpt: '<add description>'
 date: 2017-08-02
 venue: 'arXiv:1708.00727 - submitted to JHEP'
