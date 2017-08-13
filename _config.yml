@@ -81,10 +81,10 @@ author:
   name             : "Steffen Henkelmann"
   avatar           : "profile.png"
   bio              : "PhD Candidate in High Energy Physics at the University of British Columbia (UBC) and Author of the ATLAS experiment at CERN / Alumnus of the University of Goettingen"
-  location         : "Location"
+  location         : "Vancouver, BC"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "steffen.henkelmann@cern.ch"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "sthenkelmann"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "shreddinger"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "sthenkelmann"
   vine             :
   weibo            :
   xing             :
